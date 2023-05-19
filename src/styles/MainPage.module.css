@@ -1,0 +1,14 @@
+.mainPageWrapper{
+    display: flex;
+    border: 1px solid black;
+    height: 800px;
+}
+.navBar{
+    padding: 5px;
+    width: 20%;
+    border: 1px solid black;
+}
+.workingPlace{
+    width: 80%;
+    border: 1px solid black;
+}

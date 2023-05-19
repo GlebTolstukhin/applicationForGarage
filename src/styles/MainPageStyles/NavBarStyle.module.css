@@ -1,0 +1,20 @@
+.navBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+.navPoint a{
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+.createUser a{
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+.active{
+    border: 2px solid black;
+    border-radius: 7px;
+}

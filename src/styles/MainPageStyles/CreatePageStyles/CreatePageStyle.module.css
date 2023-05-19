@@ -1,0 +1,25 @@
+.createPageWrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+}
+.infoTitle{
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.createPageWrapper>input{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.toCreate{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    color: red;
+    background-color: #b0b0b0;
+}
